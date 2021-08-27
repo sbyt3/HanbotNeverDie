@@ -1,4 +1,20 @@
 {
+  "2bef059eced167ceab6e6d17d627e294": {
+    "Files": {
+      "league of legends/bot.dll": {
+        "Download": "https://raw.githubusercontent.com/sbyt3/HanbotNeverDie/master/2bef059eced167ceab6e6d17d627e294/league of legends/bot.dll",
+        "MD5": "c24ab7eae287a260816c238499cbcf76"
+      },
+      "league of legends/bot_2.dll": {
+        "Download": "https://raw.githubusercontent.com/sbyt3/HanbotNeverDie/master/2bef059eced167ceab6e6d17d627e294/league of legends/bot_2.dll",
+        "MD5": "a71d61c179afc6701e3d99495742c30c"
+      },
+      "league of legends/HanbotFree.dll": {
+        "Download": "https://raw.githubusercontent.com/sbyt3/HanbotNeverDie/master/2bef059eced167ceab6e6d17d627e294/league of legends/HanbotFree.dll",
+        "MD5": "d763ce67e43a0164e829c77cfe6aebda"
+      }
+    }
+  },
   "668be0df8c160b38cb8c8eb2fd869a5b": {
     "Files": {
       "league of legends/bot.dll": {
